@@ -68,20 +68,20 @@ Calculate using mathjs::node and Parameters.
 
 | Label                     | Type           | Description                             |
 | ------------------------- | -------------- | --------------------------------------- |
-| node                      | `mathjs::node` | Compiled mathjs node to using evalution |
+| **node**                  | `mathjs::node` | Compiled mathjs node to using evalution |
 | [**params**](#1-template) | `object`       | parameters                              |
 
 #### Outputs
 
-| Label  | Type                | Description |
-| ------ | ------------------- | ----------- |
-| result | `number` \| `array` | result      |
+| Label      | Type                | Description |
+| ---------- | ------------------- | ----------- |
+| **result** | `number` \| `array` | result      |
 
 #### Widgets
 
-| Label | Type      | Description                                                                                                   |
-| ----- | --------- | ------------------------------------------------------------------------------------------------------------- |
-| bulk  | `boolean` | If you turn on this option, you can receive the results calculated through the parameters entered as an array |
+| Label    | Type      | Description                                                                                                   |
+| -------- | --------- | ------------------------------------------------------------------------------------------------------------- |
+| **bulk** | `boolean` | If you turn on this option, you can receive the results calculated through the parameters entered as an array |
 
 ## Source Code
 
