@@ -6,8 +6,6 @@ Math.js is an extensive math library for JavaScript and Node.js. It features a f
 
 ## 🔲Parser Node
 
----
-
 Convert String to Mathjs node.
 
 ```litegraph
@@ -38,12 +36,12 @@ Convert String to Mathjs node.
 | -------- | -------------- | -------------------- |
 | **node** | `mathjs::node` | Compiled mathjs node |
 
+---
+
 &nbsp;
 &nbsp;
 
 ## 🔲Evaluate Node
-
----
 
 Calculate using mathjs::node and Parameters.
 
